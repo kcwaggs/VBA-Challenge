@@ -8,7 +8,7 @@ Link to the files for this challenge are linked here so that you can take my CSV
 
 ## Notes: 
 
-If you look at all of my commits, you will see in my first few attempts I was working on each individual portion of the code. Since this is a new subject for me it helped me better understand the rules and how the different lines of code interact with each other. Eventually all of my subs were merged to create one analysis script and one reset script for ease of use. 
+If you look at all of my commits, you will see in my first few attempts I was working on each individual portions of the code. Since this is a new subject for me it helped me better understand the rules and how the different lines of code interact with each other. Eventually all of my subs were merged to create one analysis script and one reset script for ease of use. 
 
 One notable difference you will see here, is that I included color formatting for the summary tables and column headers. I also had this sectio of code include updated row/column sizing to accomodate for the size of data we were analyzing. It helped me when analyzing the data to differentiate the data points from titles/headers. You will see this in the ' WORKBOOK FORMATTING section. 
 
