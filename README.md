@@ -16,13 +16,13 @@ I saw in the instructions that we needed to include conditional formatting for t
 
 In the retrieval of data portion of the grading notes, it states that we need to read and store data for the open and close price. We used these data points to calculate the Yearly Change/Percent Change fields. If you need to identify where I held this information, lines 82, 98, and 111 were used to store this information. 
 
-Screenshot file is included in my repository with screenshots of: 
-  My macro options.
-  Running the 'AnalyzeStocks' script.
-  Message Box stating completion of analysis.
-  Confirmation that the script ran on all three tabs.
-  Running the 'ResetWorkbook' script.
-  Message Box stating completion of the reset (background showing formatting was withdrawn).
+Screenshot file is included in my repository with screenshots of... 
+>>> My macro options.
+>>> Running the 'AnalyzeStocks' script.
+>>> Message Box stating completion of analysis.
+>>> Confirmation that the script ran on all three tabs.
+>>> Running the 'ResetWorkbook' script.
+>>> Message Box stating completion of the reset (background showing formatting was withdrawn).
 
 I made sure to label my steps so you can identify what I was aiming to accomplish, and it helped me stay organized. 
 
